@@ -1,0 +1,18 @@
+{
+  "name": "challenge12_employee_tracker",
+  "version": "1.0.0",
+  "description": "mySql Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.5.1"
+  }
+}
