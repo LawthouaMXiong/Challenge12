@@ -1,4 +1,4 @@
-# Challenge 12: MySql Employee Tracker
+# Challenge 12: MySQL Employee Tracker
 
 ## **Description:**
 Employee Tracker
@@ -28,7 +28,7 @@ WHEN I choose to update an employee role<br />
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database <br />
 
 ## **Links to Portfolio**
-* GitHub Repository Link - https://github.com/LawthouaMXiong/Challenge12
+* GitHub Repository Link - https://github.com/LawthouaMXiong/MySQLEmployeeTracker
 
 ## **Demo**
 ![Demo for challenge](/demo/Challenge12.gif)
